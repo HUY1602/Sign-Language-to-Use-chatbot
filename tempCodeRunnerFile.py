@@ -1,0 +1,1 @@
+label_history = deque(maxlen=8)
